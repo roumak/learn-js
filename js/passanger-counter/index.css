@@ -1,9 +1,7 @@
 body {
     background-image: url(https://live.staticflickr.com/5167/5294572820_2323633068.jpg);
-
     background-size: cover;
     text-align: center;
-
 }
 
 button {
@@ -16,12 +14,17 @@ button {
 
 }
 
-#increment-btn {
-    background: darkgreen;
+p{
+    font-size: x-large;
+    font-weight: 900;
 }
 
-#reset-btn {
+#increment-btn {
     background: rgb(196, 28, 28);
+}
+
+#save-btn {
+    background:darkgreen
 }
 
 h1 {
